@@ -1,0 +1,28 @@
+{
+    "persons": [{
+            "name": "yogee",
+            "city": "mtr",
+            "phone": {
+                "office": "040-528-08",
+                "home": "8787878787"
+            }
+ 
+        },
+        {
+            "name": "ribhu",
+            "city": "gur",
+            "phone": {
+                "office": "040-528098569",
+                "home": "989876666"
+            }
+        },
+        {
+            "name": "Prameet",
+            "city": "Del",
+            "phone": {
+                "office": "9898989898",
+                "home": "78787878"
+            }
+        }
+    ]
+}
